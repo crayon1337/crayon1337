@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
-<h3 align="center">A passoinate egyptian-based Fullstack Developer</h3>
+<h1 align="center">Howdy 👋, I'm Mohamed Mahmoud</h1>
+<h3 align="center">Passoinate Egyptian based Software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crayon1337" alt="crayon1337" /></a> </p>
 
