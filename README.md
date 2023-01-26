@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [TestaViva](https://testaviva.dk)
 
+- 📙 I'm currently learning [React](https://reactjs.org/)
+
 - 💬 Ask me about **PHP, Laravel and SQL**
 
 - 📫 How to reach me **mohammedarey2@gmail.com**
