@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TestaViva](https://testaviva.dk)
 
-- 📙 I'm currently learning [React](https://reactjs.org/)
+- 📙 I'm currently learning [React](https://reactjs.org/) and [Go](http://go.dev/)
 
 - 💬 Ask me about **PHP, Laravel and SQL**
 
