@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crayon1337" alt="crayon1337" /></a> </p>
 
-- 🔭 I’m currently working on [MakanE](https://makane.com/eg-en) & [ExpandCart](https://expandcart.com/)
+- 🔭 I’m currently working with [Kvalifik](https://www.kvalifik.dk/) 
 
 - 📙 I'm currently learning [React](https://reactjs.org/) and [Go](http://go.dev/)
 
-- 💬 Ask me about **PHP, Laravel and SQL**
+- 💬 Ask me about **NodeJS, React, PHP, Laravel and SQL**
 
 - 📫 How to reach me **mohammedarey2@gmail.com**
 
