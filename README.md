@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋 I'm Mohamed Mahmoud</h1>
+<h1 align="center">Howdy 👋 I'm Mohamed Ary</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crayon1337" alt="crayon1337" /></a> </p>
